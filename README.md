@@ -16,3 +16,5 @@ the `schedule.json` file must be in the same directory as script, or provide ful
 
 Uses the military-time format/24-hour format.
 
+An example is provided for understanding.
+
