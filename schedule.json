@@ -1,0 +1,52 @@
+{
+"Sunday":{
+        "8:00": "Free Period",
+        "9:00": "Chemistry Period",
+        "10:00": "Break for  15 minutes",
+        "10:15": "Physics Class",
+        "11:15": "Maths Class",
+        "12:15": "Break for  15 minutes",
+        "12:30": "English Class",
+        "13:30": "Islamic/Arabic Class"
+        },
+"Monday":{
+        "8:00": "Computer Science Class",
+        "9:00": "Free Period",
+        "10:00": "Break for  15 minutes",
+        "10:15": "Chemistry Class",
+        "11:15": "Physics Class",
+        "12:15": "Break for  15 minutes",
+        "12:30": "Maths Class",
+        "13:30": "English Class"
+        },
+"Tuesday":{
+           "8:00": "English Class",
+           "9:00": "Computer Science Class",
+           "10:00": "Break for  15 minutes",
+           "10:15": "Free Period",
+           "11:15": "Chemistry Class",
+           "12:15": "Break for  15 minutes",
+           "12:30": "Physics Class",
+           "13:30": "Maths"
+         },
+"Wednesday":{
+          "8:00": "Maths Class",
+          "9:00": "English Class",
+          "10:00": "Break for  15 minutes",
+          "10:15": "Computer Science Class",
+          "11:15": "Free Period",
+          "12:15": "Break for  15 minutes",
+          "12:30": "Chemistry Class",
+          "13:30": "Physics Class"
+         },
+"Thursday":{
+            "8:00": "Physics Class",
+            "9:00": "Maths Class",
+            "10:00": "Break for  15 minutes",
+            "10:15": "English Class",
+            "11:15": "Computer Science Class",
+            "12:15": "Break for  15 minutes",
+            "12:30": "Free Period",
+            "13:30": "Chemistry Class"
+          }
+}
