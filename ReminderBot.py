@@ -40,9 +40,14 @@ for a, b in data[current_day].items():
     if wait < 0.00:
         continue
     else:
-        text = f"{b} begins in 5 minutes at {a}."
+        text1 = f"{b} begins in 5 minutes at {a}."
+        text2 = f"{b} has started."
+
         print("alarm at: " + a, end=", ")
         print("time to wait in seconds:  " + str(wait))
+
         time.sleep(wait)
-        send_notification(text)
-        print(f"Notification sent at {a}")
+        send_notification(text1)
+
+        time.sleep(300)
+        send_notification(text2)
