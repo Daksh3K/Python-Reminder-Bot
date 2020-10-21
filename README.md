@@ -18,3 +18,4 @@ Uses the military-time format/24-hour format.
 
 An example is provided for understanding.
 
+#### NOTE: Only works on Windows, Mac version coming soon
